@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @conwayn816
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on anything I can find
+
 - 📫 How to reach me: conwayn816@yahoo.com
 
 <!---
