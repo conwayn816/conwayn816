@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @conwayn816
 
-- 📫 How to reach me: conwayn816@yahoo.com
+- I am a computer science student at Florida State University!
+
+- I am currently looking for an internship! 
+
+- 📫 How to reach me: conwayn816@gmail.com
 
 <!---
 conwayn816/conwayn816 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
