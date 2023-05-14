@@ -2,8 +2,6 @@
 
 - I am a computer science student at Florida State University!
 
-- I am currently looking for an internship! 
-
 - 📫 How to reach me: conwayn816@yahoo.com
 
 <!---
