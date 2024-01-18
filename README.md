@@ -1,4 +1,4 @@
-- Hi, I’m @conwayn816
+- Hi, I’m Nathan
 
 - I am a computer science student at Florida State University!
 
