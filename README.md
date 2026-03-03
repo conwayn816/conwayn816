@@ -1,3 +1,3 @@
-- Hi, I’m Nathan a Software Engineer
+- Software Engineer
 
 - 📫 How to reach me: conwayn816@gmail.com
